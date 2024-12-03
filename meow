@@ -1,1 +1,2 @@
-
+po wejsciu na strone z localhostem trzeba na koncu linijki dopisac \events, na kompie w pycharmie pojawi sie link na konsoli i trzeba w niego kliknac 
+i tam powinno zweryfikowac na cacy, a potem jak se dodacie cos do kalendarza to json po kliknieciu events powinien pobrac to na ekran 
